@@ -2,7 +2,7 @@
 
 > 'AlerTravel'은 해외 여행 계획 수립 시, 보다 안전하고 원하는 정보를 쉽고 빠르게 얻기 위한 사이트입니다.
 
-<img src="최종산출물/readmeImage/메인로고.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/메인로고.png" style="width: 100%" alt="no pic">
 
 <br>
 
@@ -23,7 +23,7 @@
 > **하지현** : 메인 화면 지도 구현, 소통게시판 구현 및 DB 설계, 국가별 기본정보·현지연락처 화면 구현 및 DB 설계([@marchislike](https://github.com/marchislike))<br>
 
 
-<img src="readmeImage/팀원소개.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/팀원소개.png" style="width: 100%" alt="no pic">
   
 
   ---
@@ -63,7 +63,7 @@
 > 해외 여행을 준비하는 여행각들이 많아지면서 여행을 준비하는 국가의 현재 안전 여부를 파악하기에 실제 여행객들의 방문 후기를 모아 제공되는 서비스가 부족하고, 무분별한 광고로 인해 현실적으로 정확하지 않아 용이하지 않습니다. 또한, 여행 국가의 실제 안전경보와 여행객들이 생각하고 있는 안전정보가 일치하지 않는 경우가 많아 여행객들에게 안전에 대한 경각심을 제고하기 위해 "AlerTravel"을 개발하기로 결정하였습니다. <br> AlerTravel은 전세계 국가의 경보단계를 알려주고, 실제 사용자들간의 소통할 수 있는 서비스를 제공합니다.
 
 ### 벤치 마킹 사이트의 한계점
-<img src="readmeImage/벤치마킹사이트.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/벤치마킹사이트.png" style="width: 100%" alt="no pic">
 여행경보에 대한 다양한 내용은 있지만 공공기관 사이트 특성상 민원접수를 제외하면 단방향 소통에 그침
 
 
@@ -80,7 +80,7 @@
 <br>
 <br>
 
-<img src="readmeImage/개발환경.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/개발환경.png" style="width: 100%" alt="no pic">
 
 <span id="1.4"></span>
 ## 3. 프로젝트 진행 일정
@@ -100,9 +100,9 @@
 <span id="2.1"></span>
 ## 1. 설계 산출물
 ### E-R Diagram
-<img src="readmeImage/회원DB.png" style="width: 100%" alt="no pic">
-<img src="readmeImage/여행경보DB.png" style="width: 100%" alt="no pic">
-<img src="readmeImage/후원DB.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/회원DB.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/여행경보DB.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/후원DB.png" style="width: 100%" alt="no pic">
 
 
 <span id="2.2"></span>
@@ -123,7 +123,7 @@
 기존에 가입했던 이메일과 비밀번호를 통해 로그인, 카카오 소셜 로그인
 
 #### 로그인 페이지
-<img src="readmeImage/카카오로그인.gif" style="width: 100%" alt="no pic" loop=infinite>
+<img src="최종산출물/readmeimage/카카오로그인.gif" style="width: 100%" alt="no pic" loop=infinite>
 
 ### ✔ 지도 서비스
 #### 📍단계별 여행경보
@@ -134,7 +134,7 @@
 지도의 국가명 클릭시 국가별 정보(지도,기본정보,현지연락처)를 확인
 
 #### 지도 구현 화면
-<img src="readmeImage/지도구현동영상.gif" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/지도구현동영상.gif" style="width: 100%" alt="no pic">
 
 
 ### ✔ 단계별 여행경보 서비스
@@ -146,7 +146,7 @@
 목록에 있는 국가명 클릭시 국가별 정보(지도,기본정보,현지연락처)를 확인
 
 ### 여행 경보 화면
-<img src="readmeImage/단계별_여행경보_페이지.gif" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/단계별_여행경보_페이지.gif" style="width: 100%" alt="no pic">
 
 
 ### ✔ 후원 서비스
@@ -158,7 +158,7 @@
 이름, 전화번호, 이메일을 입력하여 후원 내역을 확인
 
 ### 결제 화면
-<img src="readmeImage/결제기능.gif" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeimage/결제기능.gif" style="width: 100%" alt="no pic">
 
 
 
