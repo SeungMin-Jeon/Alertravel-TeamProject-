@@ -2,7 +2,7 @@
 
 > 'AlerTravel'은 해외 여행 계획 수립 시, 보다 안전하고 원하는 정보를 쉽고 빠르게 얻기 위한 사이트입니다.
 
-<img src="readmeImage/메인로고.png" style="width: 100%" alt="no pic">
+<img src="최종산출물/readmeImage/메인로고.png" style="width: 100%" alt="no pic">
 
 <br>
 
